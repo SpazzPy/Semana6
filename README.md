@@ -1,4 +1,4 @@
-# Traductor de Python a C++ Semana6
+# Traductor Basico de Python a C++ Semana6
 
 **Autor:** Frannie Fermin 1-16-0408 
 
